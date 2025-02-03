@@ -207,6 +207,10 @@ if __name__ == "__main__":
 + Does the text resemble Shakespearean language?  
 + What is your level of English proficiency?
 
++ Find more detasils in the link attached here - [Google Forms Survey](https://docs.google.com/forms/d/e/1FAIpQLScIvps5_6atyIEyGuzaM0DUT9JXFuNI9USN3iBmvkAMnXJufQ/viewform)
+
+
+
 ### Future Improvements
 
 + Implement smoothing techniques (e.g., Laplace Smoothing).
@@ -217,6 +221,6 @@ if __name__ == "__main__":
 
 Author: Aswin Subramanian MaheswaRAN
 Email: asubramanian.ieu2022@student.ie.edu
-GitHub: [Github Repository]( https://github.com/smaswin21/shakespeare_text_generator)
+GitHub: [Github Repository](https://github.com/smaswin21/shakespeare_text_generator)
 
 #### Enjoy generating Shakespearean text with N-grams! 
