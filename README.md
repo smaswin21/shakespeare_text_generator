@@ -219,8 +219,8 @@ if __name__ == "__main__":
 
 ##  Contact
 
-Author: Aswin Subramanian MaheswaRAN
-Email: asubramanian.ieu2022@student.ie.edu
-GitHub: [Github Repository](https://github.com/smaswin21/shakespeare_text_generator)
++ Author: Aswin Subramanian MaheswaRAN
++ Email: asubramanian.ieu2022@student.ie.edu
++ GitHub: [Github Repository](https://github.com/smaswin21/shakespeare_text_generator)
 
 #### Enjoy generating Shakespearean text with N-grams! 
