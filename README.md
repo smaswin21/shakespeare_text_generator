@@ -68,11 +68,11 @@ This project implements a text generation model that mimics William Shakespeare'
 
    ```bash
    git clone 
-   cd "inside the directory"
+   cd src
 
 *  Ensure you have Python 3.6+ installed.
 
-2. **Create a Virtual Environment:**
+2. **Create a Virtual Environment: (optional)** 
     ```bash
     python -m venv venv
     source venv/bin/activate   # macOS/Linux
